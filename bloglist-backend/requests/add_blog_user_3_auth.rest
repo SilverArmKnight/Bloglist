@@ -1,0 +1,11 @@
+POST http://localhost:3001/api/blogs
+Content-Type: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InJhbmRvbWZvcmVzdHJ1bm5lciIsImlkIjoiNjY2ODY0NGZlNTRiMTI1MzVmOTU5NGUzIiwiaWF0IjoxNzE4MTE3NDY2LCJleHAiOjE3MTgxMjEwNjZ9.TbAEwcQWbUHNdJHYsmzD383p-tIk9X9T4UlhzxoJFuc
+
+{
+  "url": "https://randomforestrunner.com/2023/09/2023-tor-des-geants/",
+  "title": "2023 Tor Des Geants - Nocturne Valdostano no. 3",
+  "author": "John Kelly",
+  "likes": 0,
+  "userId": "65744d81c3fb75e7fa8c69e2"
+}

@@ -1,0 +1,11 @@
+POST http://localhost:3001/api/blogs
+Content-Type: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6ImhlbGxhcyIsImlkIjoiNjY2ODY0MWRlNTRiMTI1MzVmOTU5NGRhIiwiaWF0IjoxNzE4MTE3NDE2LCJleHAiOjE3MTgxMjEwMTZ9.6UcAFKYXyw6h8U_3E8_sINaMYadqsrOwRwSZxCVR_1s
+
+{
+  "url": "https://martinfowler.com/articles/distributed-objects-microservices.html",
+  "title": "Microservices and the First Law of Distributed Objects",
+  "author": "Martin Fowler",
+  "likes": 0,
+  "userId": "65744d7bc3fb75e7fa8c69de"
+}

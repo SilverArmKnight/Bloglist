@@ -1,0 +1,11 @@
+PUT http://localhost:3001/api/blogs/65746954d73f53c273564448
+Content-Type: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InJhbmRvbWZvcmVzdHJ1bm5lciIsImlkIjoiNjU3NDRkODFjM2ZiNzVlN2ZhOGM2OWUyIiwiaWF0IjoxNzAyMTI2MTgzLCJleHAiOjE3MDIxMjk3ODN9.Ku8THDgOWYpXbs_l0ar1jDLpX7gBvUQFNx3Wqj6UwPk
+
+{
+  "url": "https://randomforestrunner.com/2023/06/long-trail-supported-fkt/",
+  "title": "A Footbath in the Wildnerness - The Long Trail Supported FKT",
+  "author": "John Kelly",
+  "likes": 0,
+  "userId": "65744d81c3fb75e7fa8c69e2"
+}
